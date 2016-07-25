@@ -3,4 +3,4 @@ rm -rf platforms/ios
 ionic build
 ionic resources
 ionic prepare
-open -a Xcode platforms/ios/Sorry\ as\ a\ Service\ Dispatcher.xcodeproj/
+open -a Xcode platforms/ios/date-pipe.xcodeproj/
